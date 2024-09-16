@@ -1,0 +1,36 @@
+.parent {
+    width: 1000px;
+    height: 400px;
+    background: pink;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.parent1 {
+    width: 80%;
+    height: 90%;
+    background: gray;
+    display: flex;
+}
+
+.child {
+    width: 200px;
+    height: 200px;
+}
+
+.child1 {
+    background: red;
+}
+
+.child2 {
+    background: green;
+}
+
+.child3 {
+    background: yellow;
+}
+
+.child4 {
+    background: blue;
+}
